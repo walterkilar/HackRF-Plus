@@ -4,9 +4,10 @@ HackRF++
 HackRF C++ playground plus basic demodulation.
 
 ## Install
-
+`
 cmake ../
 make all
+`
 
 ## Note
 
